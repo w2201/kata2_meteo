@@ -3,5 +3,5 @@ import Weather from "../page/Weather";
 
 export const router = createBrowserRouter(
   [{ path: "/", element: <Weather /> }],
-  { basename: "/hata2_meteo" },
+  { basename: "/kata2_meteo" },
 );
